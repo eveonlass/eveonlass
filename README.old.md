@@ -1,2 +1,0 @@
-# eveonlass
-EVE Online Assistant
