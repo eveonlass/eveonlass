@@ -1,6 +1,6 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "EVE Online Assistant",
+  "name": "Create EVE Online Assistant",
   "icons": [
     {
       "src": "favicon.ico",
